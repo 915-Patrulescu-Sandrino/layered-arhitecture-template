@@ -1,6 +1,6 @@
 from layered_arhitecture_template.domain.exceptions import StoreException
 
-
+# this is just a test
 class RepositoryException(StoreException):
     pass
 
